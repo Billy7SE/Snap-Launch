@@ -1,0 +1,116 @@
+body {
+   /* position: fixed; */
+   background-color: #eaebed;
+   color: rgb(95, 94, 94);
+}
+
+nav {
+   overflow: hidden;
+   margin: 0 25px 0 25px;
+   font-size: 13px;
+}
+.snap {
+   float: left;
+   padding: 5px 3px 0 3px;
+   margin: 10px 35px 0 10px;
+}
+
+.left_nav {
+   float: left;
+   padding: 5px 3px 5px 3px;
+   margin: 10px 0px 0 0px;
+}
+
+.right_nav {
+   float: right;
+   padding: 5px 3px 5px 3px;
+   margin: 10px 20px 0 0px;
+}
+
+li {
+   display: inline;
+   margin: 0 20px 0 20px;
+}
+li:hover {
+   color: black;
+}
+
+.hdiv {
+   padding: 0;
+   margin: 0 0 0 0;
+}
+
+ul {
+   padding: 0;
+   margin: 0 0 0 0;
+}
+
+.cont-left {
+   float: left;
+   width: 40%;
+   margin: 75px 0px 100px 130px;
+   padding: 0 0 0 0;
+}
+
+.cont-right {
+   float: right;
+   width: 35%;
+   margin: 45px 130px 0px 0;
+   height: 510px;
+   padding: 0 0 0 0;
+}
+
+.image {
+   width: 90%;
+   height: 100%;
+   margin: 0 0 0px 0;
+   padding: 0 0 0 0;
+}
+
+.make {
+   margin: 25px 0 0 25px;
+   font-size: 70px;
+   padding: 0;
+   color: black;
+}
+
+.remote {
+   margin: 0 0 35px 25px;
+   font-size: 70px;
+   padding: 0;
+   color: black;
+}
+
+.para {
+   margin: 30px 150px 0 25px;
+   line-height: 22px;
+   font-size: 15px;
+}
+.btn {
+   display: block;
+   width: 84px;
+   margin: 40px 0 50px 25px;
+   border: 1px solid black;
+   border-radius: 15px;
+   padding: 10px 21px 10px 21px;
+   background: #070708;
+   color: #eaebed;
+}
+.btn:hover {
+   background: #eaebed;
+   color: #070708;
+   border: 1px solid #070708;
+}
+.icon {
+   margin: 0 10px 0 10px;
+   padding: 0 0 0 0;
+
+}
+.reg {
+   border: 2px solid grey;
+   padding: 5px 10px 5px 10px;
+   border-radius: 10px;
+}
+.reg:hover {
+   border: 2px solid black;
+}
